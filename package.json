@@ -2,7 +2,7 @@
   "name": "accountable-assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saeedpadyab.github.io/accountable-assinment/",
+  "homepage": "https://saeedpadyab.github.io/accountable-assignment/",
   "dependencies": {
     "@stitches/react": "^1.2.8",
     "@testing-library/jest-dom": "^5.16.4",
