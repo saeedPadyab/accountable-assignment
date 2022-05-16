@@ -7,7 +7,7 @@ import NotFound from "./screens/NotFound";
 const RoutesList = () => {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/accountable-assignment" element={<Home />} />
       <Route path="/favorites" element={<Favorites />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
