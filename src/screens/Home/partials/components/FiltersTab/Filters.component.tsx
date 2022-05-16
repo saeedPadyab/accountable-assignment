@@ -19,7 +19,7 @@ const MovieFilters = () => {
       onClick: () => changeFilterTab?.(MovieEnumFilters.top),
     },
     {
-      IDBIndex: "upcoming",
+      id: "upcoming",
       displayName: t("filter_upcoming"),
       onClick: () => changeFilterTab?.(MovieEnumFilters.upcoming),
     },
