@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/accountable-assinment/static/js/main.c4c41683.js",
+    "static/js/787.ee8ab009.chunk.js": "/accountable-assinment/static/js/787.ee8ab009.chunk.js",
+    "static/media/error.svg": "/accountable-assinment/static/media/error.3b46a0d092dda9bf347785737a40c63e.svg",
+    "static/media/notFound.svg": "/accountable-assinment/static/media/notFound.81aa441394a994acead8a8bb04e4a9d5.svg",
+    "static/media/accountable-logo.svg": "/accountable-assinment/static/media/accountable-logo.2416674b4da8d6cc53f24ef4162513ca.svg",
+    "static/media/noData.svg": "/accountable-assinment/static/media/noData.4c43cb98f72f70ccd87ef8769bb8a9ba.svg",
+    "index.html": "/accountable-assinment/index.html",
+    "main.c4c41683.js.map": "/accountable-assinment/static/js/main.c4c41683.js.map",
+    "787.ee8ab009.chunk.js.map": "/accountable-assinment/static/js/787.ee8ab009.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c4c41683.js"
+  ]
+}
